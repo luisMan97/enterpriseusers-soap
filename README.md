@@ -6,11 +6,6 @@ Run git clone to download proyect
 ```ruby
 git clone https://github.com/luisMan97/enterpriseusers-soap.git
 ```
-First clone the next soap web service project
-
-https://github.com/luisMan97/enterpriseusers-soap
-
-IMPORTANT: check the README.md
 
 #### Use
 1) Open the project with Eclpise for Enterprise Java Developers (https://www.eclipse.org/downloads/packages/release/2020-03/r/eclipse-ide-enterprise-java-developers-includes-incubating-components)
